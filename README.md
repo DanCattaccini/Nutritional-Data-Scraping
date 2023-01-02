@@ -1,4 +1,4 @@
-# NutritionalScraping
+# Food Nutritional Values Scraping
 Scrap food nutritional data from University of São Paulo.
 For this project I'm utilizing Python with csv library, BeautifulSoup4 and requests.
 
