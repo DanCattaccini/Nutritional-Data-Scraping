@@ -1,5 +1,5 @@
 # Food Nutritional Values Scraping
-Scrap food nutritional data from University of São Paulo.
+Scrap nutritional food data from University of São Paulo.
 For this project I'm utilizing Python with csv library, BeautifulSoup4 and requests.
 
 This is the site I'm scraping -> http://www.tbca.net.br/base-dados/composicao_alimentos.php
